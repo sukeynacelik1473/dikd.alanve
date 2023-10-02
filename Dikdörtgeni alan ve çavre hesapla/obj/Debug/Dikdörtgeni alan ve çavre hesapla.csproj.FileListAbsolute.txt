@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\Dikdörtgeni alan ve çavre hesapla\Dikdörtgeni alan ve çavre hesapla\bin\Debug\Dikdörtgeni alan ve çavre hesapla.exe.config
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\Dikdörtgeni alan ve çavre hesapla\Dikdörtgeni alan ve çavre hesapla\bin\Debug\Dikdörtgeni alan ve çavre hesapla.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\Dikdörtgeni alan ve çavre hesapla\Dikdörtgeni alan ve çavre hesapla\bin\Debug\Dikdörtgeni alan ve çavre hesapla.pdb
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\Dikdörtgeni alan ve çavre hesapla\Dikdörtgeni alan ve çavre hesapla\obj\Debug\Dikdörtgeni alan ve çavre hesapla.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\Dikdörtgeni alan ve çavre hesapla\Dikdörtgeni alan ve çavre hesapla\obj\Debug\Dikdörtgeni alan ve çavre hesapla.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\Dikdörtgeni alan ve çavre hesapla\Dikdörtgeni alan ve çavre hesapla\obj\Debug\Dikdörtgeni_alan_ve_çavre_hesapla.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\Dikdörtgeni alan ve çavre hesapla\Dikdörtgeni alan ve çavre hesapla\obj\Debug\Dikdörtgeni_alan_ve_çavre_hesapla.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\Dikdörtgeni alan ve çavre hesapla\Dikdörtgeni alan ve çavre hesapla\obj\Debug\Dikdörtgeni alan ve çavre hesapla.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\Dikdörtgeni alan ve çavre hesapla\Dikdörtgeni alan ve çavre hesapla\obj\Debug\Dikdörtgeni alan ve çavre hesapla.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\Dikdörtgeni alan ve çavre hesapla\Dikdörtgeni alan ve çavre hesapla\obj\Debug\Dikdörtgeni alan ve çavre hesapla.exe
+C:\Users\User\Desktop\KORUMASIZ\sukeyna çelik\Dikdörtgeni alan ve çavre hesapla\Dikdörtgeni alan ve çavre hesapla\obj\Debug\Dikdörtgeni alan ve çavre hesapla.pdb
